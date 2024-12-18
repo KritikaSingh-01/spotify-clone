@@ -1,0 +1,197 @@
+{
+    "folders": [
+        {
+            "name": "web1_development",
+            "path": "."
+        },
+        {
+            "name": "VIDEO 2",
+            "path": "../VIDEO 2"
+        },
+        {
+            "name": "video3",
+            "path": "../video3"
+        },
+        {
+            "name": "video4",
+            "path": "../video4"
+        },
+        {
+            "name": "video5",
+            "path": "../video5"
+        },
+        {
+            "name": "VIDEO6",
+            "path": "../VIDEO6"
+        },
+        {
+            "name": "SEO",
+            "path": "../SEO"
+        },
+        {
+            "name": "FormsInputTags",
+            "path": "../FormsInputTags"
+        },
+        {
+            "path": "../Inline+Blockelemets"
+        },
+        {
+            "path": "../Id+Classes"
+        },
+        {
+            "path": "../audio,video&media"
+        },
+        {
+            "path": "../CSS_01"
+        },
+        {
+            "path": "../css_Selectors"
+        },
+        {
+            "path": "../CSS_BoxModel"
+        },
+        {
+            "path": "../Fonts,Text&Color"
+        },
+        {
+            "path": "../exercise1"
+        },
+        {
+            "path": "../Specificity"
+        },
+        {
+            "path": "../Sizing Units"
+        },
+        {
+            "path": "../Shadows&_outlines"
+        },
+        {
+            "path": "../display property"
+        },
+        {
+            "path": "../Styling_Lists"
+        },
+        {
+            "path": "../CSS_overflow PROPERTY"
+        },
+        {
+            "path": "../position property"
+        },
+        {
+            "path": "../Exercise 3"
+        },
+        {
+            "path": "../CSS variables"
+        },
+        {
+            "path": "../media queries"
+        },
+        {
+            "path": "../Exercise 4"
+        },
+        {
+            "path": "../CSS fonts&clear"
+        },
+        {
+            "path": "../Exercise 5"
+        },
+        {
+            "path": "../display_flex"
+        },
+        {
+            "path": "../CSS grid"
+        },
+        {
+            "path": "../Exercise 6"
+        },
+        {
+            "path": "../CSS Transforms"
+        },
+        {
+            "path": "../Exercise 7"
+        },
+        {
+            "path": "../Transition Property"
+        },
+        {
+            "path": "../CSS Animation"
+        },
+        {
+            "path": "../Object Fit&Cover"
+        },
+        {
+            "path": "../CSS Filters"
+        },
+        {
+            "path": "../Exercise 8"
+        },
+        {
+            "path": "../Figma Basics"
+        },
+        {
+            "path": "../Netflix Clown project1"
+        },
+        {
+            "path": "../JS_1"
+        },
+        {
+            "path": "../if_ifelse"
+        },
+        {
+            "path": "../loops"
+        },
+        {
+            "path": "../functions"
+        },
+        {
+            "path": "../exercise 9"
+        },
+        {
+            "path": "../strings"
+        },
+        {
+            "path": "../exercise 10"
+        },
+        {
+            "path": "../arrays"
+        },
+        {
+            "path": "../dom"
+        },
+        {
+            "path": "../Exercise 12"
+        },
+        {
+            "path": "../selecting by Ids ,class"
+        },
+        {
+            "path": "../Inserting,removing"
+        },
+        {
+            "path": "../setInterval,Timeout"
+        },
+        {
+            "path": "../callback,promises"
+        },
+        {
+            "path": "../async_await"
+        },
+        {
+            "path": "../exercise13"
+        },
+        {
+            "path": "../Try..catch,throw errors"
+        },
+        {
+            "path": "../obj_oriented_Programming"
+        },
+        {
+            "path": "../exercise 14"
+        },
+        {
+            "path": "../Spotify project with html,css&js"
+        }
+    ],
+    "settings": {
+    }
+}
